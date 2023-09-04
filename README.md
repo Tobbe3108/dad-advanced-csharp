@@ -1,6 +1,6 @@
 # Advanced C#
 
-## [Asynchronous Programming](#asynchronous-programming)
+## [Asynchronous Programming](./asynchronous-programming)
 Lær om asynkron programmering ved hjælp af nøgleordene `async` og `await`.
 
 ## [Generics](#generics)
